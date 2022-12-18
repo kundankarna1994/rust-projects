@@ -11,3 +11,9 @@
 ## Decompress
 
 #### cargo run 1.zip
+
+# Project 3
+
+## Read CSV
+
+### cargon run
