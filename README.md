@@ -4,4 +4,10 @@
 
 ## Compress Files
 
-#### cargon run sample.pdf compressed.pdf
+#### cargo run sample.pdf compressed.pdf
+
+# Project 2
+
+## Decompress
+
+#### cargo run 1.zip
