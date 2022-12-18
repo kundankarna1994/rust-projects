@@ -1,25 +1,11 @@
 # rust-projects
 
-# Project 1
+#### Project 1 : Compress Files
 
-## Compress Files
+#### Project 2 : Decompress zip files
 
-#### cargo run sample.pdf compressed.pdf
+#### Project 3 : Read Csv
 
-# Project 2
+#### Project 4 : Read Json To Struct
 
-## Decompress
-
-#### cargo run 1.zip
-
-# Project 3
-
-## Read CSV
-
-### cargon run
-
-#Project 4
-
-## Read Json And generate Struct
-
-## cargon run
+#### Project 5 : Write Json From Struct
