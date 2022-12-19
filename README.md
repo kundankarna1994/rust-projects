@@ -12,3 +12,4 @@
 10. Download Image
 11. Extract Links
 12. Actix Rhai Api
+13. Substrate
