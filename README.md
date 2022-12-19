@@ -14,3 +14,4 @@
 12. Actix Rhai Api
 13. Substrate
 14. Firebase Crud
+15. Spotify Api
